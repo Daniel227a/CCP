@@ -24,3 +24,6 @@ Durante a simulação, cada rede neural apresentou um comportamento diferente ao
 Ao longo da condução da simulação, observou-se um aumento progressivo na janela, coincidindo com um incremento nas recompensas, foram identificadas taxas vantajosas de vazão de rede mediante a implementação do modelo Flat. Este achado ressalta a eficácia do referido modelo na otimização do desempenho da rede, resultando em taxas de transmissão de dados que se mostraram positivas durante a simulação.
 
 A escolha do modelo Flat  permitiu a análise específica de seu impacto nas taxas de vazão, evidenciando suas contribuições no contexto do experimento como pode ser visto na Figura.
+<a target="_blank" align="center">
+  <img align="center"  height="600" width="1000"  src="https://github.com/Daniel227a/CCP/blob/main/graficos/flat%20(3)%20(1).pdf">
+</a>
