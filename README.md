@@ -25,5 +25,5 @@ Ao longo da condução da simulação, observou-se um aumento progressivo na jan
 
 A escolha do modelo Flat  permitiu a análise específica de seu impacto nas taxas de vazão, evidenciando suas contribuições no contexto do experimento como pode ser visto na Figura.
 <a target="_blank" align="center">
-  <img align="center"  height="600" width="1000"  src="https://github.com/Daniel227a/CCP/blob/main/graficos/flat%20(3)%20(1).pdf">
+  <img align="center"  height="600" width="1000"  src="https://github.com/Daniel227a/CCP/blob/main/graficos/flat31.png">
 </a>
