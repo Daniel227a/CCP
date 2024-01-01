@@ -53,3 +53,11 @@ A Figura  apresenta o desempenho do algoritmo *Q-Learning* para três diferentes
 Este resultado pode ser explicado pelo fato de que o *DMP* é um algoritmo mais complexo do que os demais. Ele possui uma estrutura de rede neural mais profunda, o que requer mais recursos computacionais para ser executado.
 
 Os resultados deste estudo sugerem que o modelo *Flat* é a arquitetura mais adequada para o algoritmo *Q-Learning* em ambientes complexos. O *NN* pode ser uma alternativa viável.
+
+# Análise do Impacto do Algoritmo Q-Learning no Tempo de Convergência
+
+A Figura  apresenta o tempo de convergência do algoritmo *Q-Learning* para três diferentes arquiteturas: *Flat*, *NN* e *DMP*. As curvas representam o número de etapas necessárias para que o algoritmo atinja a convergência em função da taxa de aprendizado. Como pode ser observado, o algoritmo *Flat* apresenta o melhor desempenho, com um tempo de convergência significativamente inferior aos demais algoritmos. O *DMP* é o algoritmo que apresenta o pior desempenho, com um tempo de convergência mais de 10 vezes maior que o algoritmo *Flat*.
+
+<a target="_blank" align="center">
+  <img align="center"  height="600" width="1000"  src="https://github.com/Daniel227a/CCP/blob/main/graficos/Line%20Plot%20of%20Convergence%20Step.png">
+</a>
